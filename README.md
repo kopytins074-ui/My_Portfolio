@@ -22,4 +22,4 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/kopytins074-ui/my-projects-portfolio.git
+   git clone https://github.com/kopytins074-ui/My-Portfolio.git
